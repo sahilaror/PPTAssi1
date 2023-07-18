@@ -1,0 +1,68 @@
+ANS  1	Compiler scans the entire program and translates the whole of it into machine code at once. A compiler takes a lot of time to analyze the source code. However, the overall time taken to execute the process is much faster
+	Interpreter translates just one statement of the program at a time into machine code.	Compiler scans the entire program and translates the whole of it into machine code at once.
+An interpreter takes very less time to analyze the source code. However, the overall time to execute the process is much slower.
+
+ANS 2	JDK
+JDK is a software development environment used for making applets and Java applications. The full form of JDK is Java Development Kit. Java developers can use it on Windows, macOS, Solaris, and Linux. JDK helps them to code and run Java programs. It is possible to install more than one JDK version on the same computer.
+
+JRE
+JRE is a piece of a software which is designed to run other software. It contains the class libraries, loader class, and JVM. In simple terms, if you want to run Java program you need JRE. If you are not a programmer, you don’t need to install JDK, but just JRE to run Java programs. Though, all JDK versions comes bundled with Java Runtime Environment, so you do not need to download and install the JRE separately in your PC. The full form of JRE is Java Runtime Environment.
+
+ JVM?
+JVM is an engine that provides a runtime environment to drive the Java Code or applications. It converts Java bytecode into machine language. JVM is a part of Java Run Environment (JRE). It cannot be separately downloaded and installed. To install JVM, you need to install JRE. The full form of JVM is Java Virtual Machine.
+
+ANS 3	There are 5 main components in the Memory area of the JVM.
+1 memory area 2 heap 3 stack 4 pc register 5 native method area
+
+ANS 4	The JIT or Just-In-Time compiler is an essential part of the JRE (Java Runtime Environment), that is responsible for performance optimization of java based applications during run time
+
+ANS 5	In java, there are four types of access specifiers and the name of these access specifiers are given below:
+
+public access specifiers
+protected access specifiers
+default access specifiers
+private access specifiers
+
+ANS 6	Java Compiler and Interpreter are the most fundamental tools in Java language that programmers use during programming.
+
+A compiler in Java is a computer program that is used for compiling Java programs. It is platform-independent. It converts (translates) source code (.java file) into bytecode (.class file).
+
+ANS 7
+There are three types of variables in Java:
+
+local variable
+instance variable
+static variable
+
+ANS 8	different type of data type
+boolean data type
+byte data type
+char data type
+short data type
+int data type
+long data type
+float data type
+double data type
+
+ANS 9 we have 5 identifiers namely : 
+ 
+
+Test : class name.
+main : method name.
+String : predefined class name.
+args : variable name.
+a :  variable name.
+
+ANS 10
+Loads code
+Verifies code
+Executes code
+Provides runtime environment
+JVM provides definitions for the:
+
+Memory area
+Class file format
+Register set
+Garbage-collected heap
+Fatal error reporting etc.
+
